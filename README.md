@@ -23,8 +23,7 @@ added in subsequent iterations.
 | `backtest_sp500_1.py` | Quarterly walk-forward backtest on the S&P 500 universe. |
 | `backtest_etf_50.py` | Quarterly walk-forward backtest on the top ETFs by AUM. |
 
-## Method (current stage)
-
+## Method
 For each of the last 4 quarters:
 
 1. Take the preceding 3 years as training window.
